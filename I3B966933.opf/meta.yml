@@ -1,0 +1,35 @@
+id: I3B966933
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-19T18:01:00.578870'
+last_modified: '2022-06-19T18:01:00.578881'
+parser: null
+source_metadata:
+  title: Vajrapāṇi Series
+  language: en
+  description: 'A series of texts related to the deity Vajrapāṇi (phyag na rdo rje),
+    who embodies the power and strength of all the buddhas:'
+  volume:
+    fAB4F:
+      title: The Noble Incantation entitled ‘The Rituals for the Blue-Clad Vajrapāṇi’
+      base_file: fAB4F.txt
+      order: 1
+      parent: Dhāraṇī
+    fA3F8:
+      title: Daily Practice of Dorje Gotrab
+      base_file: fA3F8.txt
+      order: 2
+      parent: Dorje Gotrab
+    fE74F:
+      title: In Praise of the Lords of the Three Families
+      base_file: fE74F.txt
+      order: 3
+      parent: Praise
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
